@@ -1,3 +1,5 @@
+Regression problem Objectives :
+
 Make accurate estimates of house rental prices that are useful for both tenants and landlords.
 Gain insights into market trends and patterns to identify factors that influence house rental prices.
 Provide valuable information to support decision-making processes for tenants and landlords.
